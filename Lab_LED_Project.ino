@@ -36,9 +36,6 @@ void loop() {
         turnAllOff();
         break;
       
-      // Error handling
-      default:
-        break;
     }
   }
 }
