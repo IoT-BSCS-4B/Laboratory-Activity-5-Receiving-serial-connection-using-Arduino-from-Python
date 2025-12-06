@@ -1,2 +1,1 @@
-Model: Gemini Pro
-Link: 
+
